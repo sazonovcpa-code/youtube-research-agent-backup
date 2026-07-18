@@ -1,0 +1,6 @@
+# Project-scoped Codex config.
+# Recommended starting point for this research/script agent.
+
+model = "gpt-5.6-terra"
+model_reasoning_effort = "medium"
+

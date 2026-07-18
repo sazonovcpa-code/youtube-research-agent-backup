@@ -1,0 +1,42 @@
+{
+  "topicPresets": [
+    {
+      "name": "Japan facts",
+      "queries": [
+        "Japan unusual facts shorts",
+        "weird things in Japan shorts",
+        "Japanese convenience store facts",
+        "日本 面白い 雑学 shorts",
+        "日本の不思議な文化 shorts"
+      ]
+    },
+    {
+      "name": "Korea facts",
+      "queries": [
+        "South Korea unusual facts shorts",
+        "Korean culture facts shorts",
+        "interesting things in Korea shorts",
+        "한국 신기한 문화 shorts",
+        "한국 생활 꿀팁 shorts"
+      ]
+    },
+    {
+      "name": "Asian details",
+      "queries": [
+        "Asian facts shorts",
+        "interesting things in Asia shorts",
+        "unique places in Asia shorts",
+        "Asia hidden details shorts"
+      ]
+    },
+    {
+      "name": "World culture facts",
+      "queries": [
+        "unusual things in different countries shorts",
+        "cultural differences around the world shorts",
+        "interesting country facts shorts",
+        "unique everyday things around the world shorts"
+      ]
+    }
+  ]
+}

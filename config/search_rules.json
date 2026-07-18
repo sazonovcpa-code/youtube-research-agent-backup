@@ -1,0 +1,25 @@
+{
+  "minViews": 200000,
+  "maxResultsPerQuery": 10,
+  "defaultDuration": "short",
+  "defaultOrder": "viewCount",
+  "publishedAfterDays": null,
+  "requireTranscript": true,
+  "dailyCandidates": {
+    "min": 2,
+    "max": 3
+  },
+  "preferredRegions": ["US", "JP", "KR", "GB", "CA", "AU"],
+  "preferredLanguages": ["en", "ja", "ko", "ru", "es"],
+  "rejectTitlePatterns": [
+    "compilation",
+    "reaction",
+    "podcast",
+    "stream",
+    "full episode"
+  ],
+  "scriptTargetSeconds": {
+    "min": 30,
+    "max": 40
+  }
+}

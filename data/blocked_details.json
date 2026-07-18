@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-07-16",
+  "purpose": "Do not reuse these published facts, examples, or list sequences in future digests.",
+  "blockedDetails": [
+    {"videoId":"wsp1C7Bwyq0","country":"Korea","details":["open drinks on buses","left-side taxi door guidance","bicycle theft and locks"]},
+    {"videoId":"eUDS4kg4ioA","country":"Korea","details":["AI waste sorting bin","truthful snack-package size law","powder that turns used cooking oil into gel"]},
+    {"videoId":"N7ab6YNk-Jg","country":"Japan","details":["paper soap sheets","bakery bread-slicing machine","disposable travel socks"]},
+    {"videoId":"TSIHRvvpb7o","country":"Japan","details":["no tipping","not eating or drinking while walking","few street bins and carrying rubbish home"]},
+    {"videoId":"0jnAAom7q_o","country":"Korea","details":["cooled bus stops","can-opening clip that becomes a lid","phone booths converted to power-bank rental stations"]},
+    {"videoId":"fTbZn2jsEFI","country":"Japan","details":["remembering a partner's preferences","personal space in relationships","serious commitment as a cultural trait"]},
+    {"videoId":"5LQj8Jh2bUc","country":"Asia","details":["group dates before one-on-one dates","care through food, umbrellas, or checking whether someone ate","family approval ending a relationship"]},
+    {"videoId":"pCJjkUmI7Qo","country":"Korea","details":["constant daily messaging","public physical closeness","100/200/300-day relationship dates","matching couple items"]}
+  ]
+}
